@@ -1,0 +1,23 @@
+#-------------------------------
+# General Site Settings
+title: Objective Look
+logo: ol-logo.png # You can add own logo.
+description: 
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Huseyin Ergin
+  image: 01.jpg
+  say-hello: Hello, I’m <strong>Huseyin Ergin</strong>
+  bio: 
+
+
+#-------------------------------
+# Contact links
+twitter: https://twitter.com/hsynrgn
+facebook: https://www.facebook.com/huseyinergin
+github: https://github.com/hergin
+instagram: https://www.instagram.com/hsynrgn/
+linkedin: https://www.linkedin.com/in/h%C3%BCseyin-ergin-39625828
