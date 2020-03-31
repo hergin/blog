@@ -26,3 +26,6 @@ I used [SketchTogether](https://sketchtogether.com/) a few times for writing and
 
 ## Virtual office hours
 I announced to my students that I would be available virtually on my regular office hours. I still didn't get a single person attended, but I am hopeful. I set my office hours via WebEx again.
+
+## Increasing interaction
+One small bit I want to share is about how I am taking attendance. We start with mics muted and webcams off. Even though, I see the names of the students, I still call their names at the beginning of the class and let them say "here" or "present" via their mic. I like to think that even this kind of small interaction makes a big change, rather than just sitting and watching a virtual class.
