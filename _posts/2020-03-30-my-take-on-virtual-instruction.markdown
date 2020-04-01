@@ -3,7 +3,7 @@ layout: post
 title:  "My Take on Virtual Instruction"
 date:   2020-03-30 12:30:00 +0300
 image:  virtual-instruction.jpg
-tags:   instruction,corona
+tags:   [instruction,corona]
 ---
 
 Let me set the record straight. I don't like online education and virtual instruction of any class I am teaching. It sucks the best out of the in-person classes, which, in my opinion, are the personal time with students and the instant feedback while teaching. Instant feedback is rather important for a healthy teaching environment. I can understand if students like/understand the topic and want more of it. I can also understand who is shy and can't ask a question, yet they have some. I can approach them easily right after the class, which I can't do it in any online or virtual instruction. However, I think online learning is suitable for a topic that you already know a little bit and want to improve yourself. For any new topic, in-person interaction time is the best. That's my personal take. We might be on different pages, and I can respect that.
