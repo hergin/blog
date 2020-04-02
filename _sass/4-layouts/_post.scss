@@ -1,10 +1,9 @@
 .post-title-box {
-  padding: 80px 0;
+  padding: 40px 0;
   border-top: 1px solid $light-gray;
 
   .post-title {
     margin-bottom: 10px;
-    width: 500px;
     max-width: 100%;
     font-size: 57px;
     line-height: 70px;
@@ -77,7 +76,7 @@
 }
 
 .post {
-  margin: 80px auto;
+  margin: 50px auto;
 
   &.post-no-image {
     margin: 0 auto 80px; 
