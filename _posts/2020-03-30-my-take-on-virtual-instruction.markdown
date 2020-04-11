@@ -19,7 +19,8 @@ After I got more emails about the situation from the university, I agreed with t
 ## Tools
 I use [WebEx](https://www.webex.com/) for giving the virtual lectures and recording them. Because our university has a contract. Of course, like any other conferencing software, WebEx also had trouble at first. So, I kept [Jitsi](https://meet.jit.si/) around for a quick fallback when I had trouble with WebEx. Now, WebEx works more stable.
 
-WebEx can record both the webcam and screen share in a good way. After each class, I first save it to local and upload it to my youtube channel. My experiences with WebEx Cloud didn't go well, so I decided to try this approach.
+WebEx can record both the webcam and screen share in a good way. After each class, I first save it to local and upload it to my youtube channel (even though not lots of students watch them). My experiences with WebEx Cloud didn't go well, so I decided to try this approach. I also take the extra mile and instead of taking short videos, I put timestamps to make each part of the video distinctly clear to skip. See below:
+![](/images/youtube.jpg)
 
 I used [SketchTogether](https://sketchtogether.com/) a few times for writing and drawing something together with the students. It was decent. However, now, if I need to draw something, I use a physical board that I have at home and share it on webcam. See below:
 ![](/images/board.jpg)
